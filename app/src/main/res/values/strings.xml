@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="home">Home</string>
+     <string name="degree_celsius">\u00B0 C</string>
+     <string name="enter_city_to_get_weather_details">get weather details</string>
+    <string name="no_data_available">No Data Available</string>
+</resources>
